@@ -1,0 +1,50 @@
+[INFO ] 2023-01-06 23:27:10.862 [main] SearchPageTest - Clicked on Top Deals
+[INFO ] 2023-01-06 23:27:13.097 [main] SearchPageTest - Page size selected
+[INFO ] 2023-01-06 23:27:13.197 [main] SearchPageTest - Clicked on next
+[INFO ] 2023-01-06 23:27:35.697 [main] SearchPageTest - entered item in searchbox
+[INFO ] 2023-01-06 23:27:35.798 [main] SearchPageTest - clicked on search button
+[INFO ] 2023-01-06 23:27:37.812 [main] SearchPageTest - Searched Successfully
+[INFO ] 2023-01-06 23:27:41.894 [main] HomePageTest - Logo is displayed
+[INFO ] 2023-01-06 23:28:01.133 [main] HomePageTest - Title verified
+[INFO ] 2023-01-06 23:28:08.065 [main] AddToCartTest - Item added to cart Successfully
+[INFO ] 2023-01-06 23:28:14.165 [main] AddToCartTest - Clicked on cart Successfully
+[INFO ] 2023-01-06 23:28:16.273 [main] AddToCartTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-06 23:28:18.437 [main] AddToCartTest - Clicked on Place Order
+[INFO ] 2023-01-06 23:28:20.692 [main] AddToCartTest - Country selected Successfully
+[INFO ] 2023-01-06 23:28:22.791 [main] AddToCartTest - Clicked on checkbox
+[INFO ] 2023-01-06 23:28:24.883 [main] AddToCartTest - Order Placed Succesfully
+[INFO ] 2023-01-06 23:28:30.507 [main] AddToCartTest - Clicked on cart Successfully
+[INFO ] 2023-01-06 23:28:32.674 [main] AddToCartTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-06 23:28:34.767 [main] AddToCartTest - Clicked on Place Order
+[INFO ] 2023-01-06 23:28:36.937 [main] AddToCartTest - Country selected Successfully
+[INFO ] 2023-01-06 23:28:39.002 [main] AddToCartTest - Clicked on proceed
+[INFO ] 2023-01-06 23:28:44.606 [main] AddToCartTest - Clicked on cart Successfully
+[INFO ] 2023-01-06 23:28:46.789 [main] AddToCartTest - Proceed to Checkout Successfully
+[INFO ] 2023-01-06 23:28:49.052 [main] AddToCartTest - Entered Promocode
+[INFO ] 2023-01-06 23:28:49.198 [main] AddToCartTest - Promocode Applied Succesfully
+[INFO ] 2023-01-06 23:28:57.722 [main] FlightBookingPageTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-06 23:29:03.209 [main] FlightBookingPageTest - Country Selected
+[INFO ] 2023-01-06 23:29:03.764 [main] FlightBookingPageTest - Departure City selected
+[INFO ] 2023-01-06 23:29:06.352 [main] FlightBookingPageTest - Arrival City selected
+[INFO ] 2023-01-06 23:29:08.801 [main] FlightBookingPageTest - Depart Date selected
+[INFO ] 2023-01-06 23:29:08.921 [main] FlightBookingPageTest - Currency selected
+[INFO ] 2023-01-06 23:29:09.169 [main] FlightBookingPageTest - search Succesfully
+[INFO ] 2023-01-06 23:29:12.198 [main] FlightBookingPageTest - Assertion passed Successfully
+[INFO ] 2023-01-06 23:29:15.939 [main] FlightBookingPageTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-06 23:29:21.156 [main] FlightBookingPageTest - Country Selected
+[INFO ] 2023-01-06 23:29:23.397 [main] FlightBookingPageTest - Clicked on hotels
+[INFO ] 2023-01-06 23:29:25.759 [main] FlightBookingPageTest - Depart city Selected
+[INFO ] 2023-01-06 23:29:25.948 [main] FlightBookingPageTest - No. of Adults Selected
+[INFO ] 2023-01-06 23:29:26.135 [main] FlightBookingPageTest - No. of child Selected
+[INFO ] 2023-01-06 23:29:26.335 [main] FlightBookingPageTest - No. of infant Selected
+[INFO ] 2023-01-06 23:29:26.464 [main] FlightBookingPageTest - Search Succesfully
+[INFO ] 2023-01-06 23:29:29.481 [main] FlightBookingPageTest - Assertion passed Successfully
+[INFO ] 2023-01-06 23:29:32.613 [main] FlightBookingPageTest - Successfully Opened Flight Booking Page
+[INFO ] 2023-01-06 23:29:37.846 [main] FlightBookingPageTest - Country Selected
+[INFO ] 2023-01-06 23:29:40.046 [main] FlightBookingPageTest - clicked Holiday Package
+[INFO ] 2023-01-06 23:29:41.275 [main] FlightBookingPageTest - Destination Entered
+[INFO ] 2023-01-06 23:29:41.667 [main] FlightBookingPageTest - Departure city entered
+[INFO ] 2023-01-06 23:29:42.059 [main] FlightBookingPageTest - Return city entered
+[INFO ] 2023-01-06 23:29:42.364 [main] FlightBookingPageTest - Depart date entered
+[INFO ] 2023-01-06 23:29:42.539 [main] FlightBookingPageTest - Search Successfully
+[INFO ] 2023-01-06 23:29:45.560 [main] FlightBookingPageTest - Assertion passed Successfully
